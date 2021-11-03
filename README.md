@@ -1,2 +1,1 @@
-# TinDog_beta
-not a real website
+TinDog Starting Files
